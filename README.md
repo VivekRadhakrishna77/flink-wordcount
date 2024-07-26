@@ -1,2 +1,2 @@
 # flink-wordcount
-Mini word-count project using flink 
+This project is for learning and practicing Apache Flink.
